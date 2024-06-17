@@ -1,0 +1,14 @@
+# missi_phone_global_only64-user 14 UKQ1.240116.001 V816.0.4.0.UNPMIXM release-keys
+- manufacturer: xiaomi
+- platform: pineapple
+- codename: peridot
+- flavor: missi_phone_global_only64-user
+- release: 14
+- id: UKQ1.240116.001
+- incremental: V816.0.4.0.UNPMIXM
+- tags: release-keys
+- fingerprint: POCO/peridot_global/peridot:14/UKQ1.240116.001/V816.0.4.0.UNPMIXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.4.0.UNPMIXM-release-keys
+- repo: poco_peridot_dump
