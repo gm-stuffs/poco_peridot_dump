@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cust_features>
+    <cust_feature>
+        <bool name="cust_feature_legacy_device_8550_8635_8650">true</bool>
+        <bool name="cust_feature_legacy_device_8635">true</bool>
+        <bool name="patern2_device">true</bool>
+        <bool name="support_audio_share_ui">true</bool>
+        <bool name="persist.vendor.bluetooth.lhdc_v5.supported">true</bool>
+        <bool name="persist.vendor.bluetooth.lhdc_v4.supported">true</bool>
+        <bool name="persist.vendor.bluetooth.bqr.supported">true</bool>
+        <bool name="support_virtual_call">true</bool>
+        <bool name="video_config_mi_ais_enable">true</bool>
+        <bool name="device_on_platform_8635">true</bool>
+        <integer name="config_wifi_sar_pattern">8</integer>
+        <bool name="config_supported_aon_devices">true</bool>
+        <bool name="wifi_tvendor_disable_mlo1">true</bool>
+        <string-array name="miui_mtk_perf_boost_config">
+            <item>0x00400000</item>
+            <item>1000000</item>
+            <item>0x00400100</item>
+            <item>1000000</item>
+            <item>0x00c00000</item>
+            <item>39</item>
+        </string-array>
+        <bool name="input_scroller_optimization_normal_support">true</bool>
+    </cust_feature>
+</cust_features>
