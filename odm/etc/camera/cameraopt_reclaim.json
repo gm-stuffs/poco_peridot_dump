@@ -1,0 +1,10 @@
+{
+    "CameraReclaim_8Gmem": {
+        "threshold": {
+            "skip_task": 2,
+            "protect_locktask_num": 1,
+            "skip_task_lower": 1,
+            "free_memory_threshold": 1500160
+        }
+    }
+}

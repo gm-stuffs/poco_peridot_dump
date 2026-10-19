@@ -1,0 +1,40 @@
+{
+    "SENSORNAME_ROLEID_MAP":[
+        {
+            "sensorName": "peridot_aac_imx882_wide_i",
+            "roleID": 0
+        },
+        {
+            "sensorName": "peridot_aac_imx882_gt24p128f_wide_i_eeprom",
+            "roleID": 0
+        },
+        {
+            "sensorName": "peridot_ofilm_ov20b40_front",
+            "roleID":1
+        },
+        {
+            "sensorName": "peridot_ofilm_ov20b40_p24c64e_front_eeprom",
+            "roleID":1
+        },
+        {
+            "sensorName": "peridot_aac_imx882_gt9764ber_wide_i_actuator",
+            "roleID": 0
+        },
+        {
+            "sensorName": "peridot_aac_imx882_ak7323_wide_i_ois",
+            "roleID": 0
+        },
+        {
+            "sensorName": "peridot_aac_imx355_ultra_i",
+            "roleID": 21
+        },
+        {
+            "sensorName": "peridot_aac_imx355_gt24p64e_ultra_i_eeprom",
+            "roleID": 21
+        }
+    ],
+    "TOMBSTONE_FUNCTION":{
+        "isEnable": true,
+        "fileNumber": 20
+    }
+}
