@@ -1,0 +1,32 @@
+{
+    "version": "2.1",
+    "VppWhiteListAIS": [
+        "com.miui.gallery",
+        "com.miui.video",
+        "com.qiyi.video",
+        "com.qiyi.video.lite",
+        "air.tv.douyu.android",
+        "com.tencent.qqlive",
+        "com.tencent.qqsports",
+        "com.duowan.kiwi",
+        "com.youku.phone",
+        "com.cmcc.cmvideo",
+        "com.tencent.weishi",
+        "tv.danmaku.bili",
+        "com.sina.weibo",
+        "com.mxplayer.mxplayer",
+        "com.ss.android.article.video",
+        "com.miui.videoplayer",
+        "com.iqiyi.i18n",
+        "com.ss.android.article.news",
+        "com.google.android.youtube",
+        "com.netflix.mediaclient",
+        "com.amazon.avod.thirdpartyclient",
+        "in.startv.hotstar",
+        "org.videolan.vlc",
+        "com.google.android.apps.photos",
+        "com.tencent.mm",
+        "com.miui.mediaviewer",
+        "com.alibaba.android.rimet"
+    ]
+}
